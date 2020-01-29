@@ -1,0 +1,20 @@
+#nav {
+    list-style-type: none;
+    float: right;       
+}
+#row2 {
+    background-color: white;
+}
+ul#nav li {
+    display:inline;
+  }
+body {
+    background-color: lightgray;
+}
+
+img {
+    float: left;
+    padding-right: 30px;
+    padding-left: 20px;
+    padding-bottom:20 px;
+}

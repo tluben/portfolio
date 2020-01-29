@@ -1,0 +1,33 @@
+#navbar {
+    list-style-type: none;
+    float: right;
+    margin-top: 20px;     
+}
+#cont {
+    background-color: white;
+}
+ul#nav li {
+    display:inline;
+  }
+body {
+    background-color: lightgray;
+}
+/* 
+.link {
+    margin: 20px;
+}
+#navbar {
+    float: right;
+} */
+
+#name {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 10px;
+}
+h2{
+    color: aqua;
+} 
+
+foot
